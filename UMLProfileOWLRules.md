@@ -1,0 +1,1 @@
+![http://twouse.googlecode.com/svn/wiki/images/UMLProfileOWLRules.png](http://twouse.googlecode.com/svn/wiki/images/UMLProfileOWLRules.png)
